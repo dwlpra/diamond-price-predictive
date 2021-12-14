@@ -1,0 +1,8 @@
+backend:
+Flask
+pickle-mixin
+flask_cors
+
+frontend:
+nodejs
+npm
